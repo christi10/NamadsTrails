@@ -1,0 +1,33 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore node.js dependencies
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore build output
+dist/
+build/
+
+# Ignore environment variables
+.env
+
+# Ignore Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Ignore compiled code
+*.class
+*.o
+
+# Ignore temporary files
+*~
+*.swp
+
+# Ignore IDE settings
+.idea/
+.vscode/
+*.iml
